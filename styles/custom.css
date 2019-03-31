@@ -1,0 +1,45 @@
+#leftSidebar, #rightSidebar{
+	padding-left:10px;
+	padding-right: 10px;
+	
+}
+
+#cmb-categories, #cmb-organisaties{
+	width: 100% !important;
+	margin-bottom: 10px;
+}
+
+#searchbox{
+	width: 90%;
+	margin-bottom: 10px;
+}
+
+#btn-registreren{
+	  text-align: center;
+}
+
+#goededoel-main a{
+	margin-bottom: 20px;
+	margin-left: 15px;
+}
+
+#goededoel-main{
+	 padding-top: 5px;
+  padding-left: 15px;
+
+}
+
+/*#goeddoel-main h1, h3{
+
+  font-weight: bold;
+  color: #ffffff;
+}*/
+
+/*registratie form*/
+#gebruiker {
+	display: none;
+}
+
+#organisatie {
+	display: none;
+}
